@@ -1,7 +1,0 @@
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\bin\Debug\SumaDeArreglo.exe.config
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\bin\Debug\SumaDeArreglo.exe
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\bin\Debug\SumaDeArreglo.pdb
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\obj\Debug\SumaDeArreglo.csproj.AssemblyReference.cache
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\obj\Debug\SumaDeArreglo.csproj.CoreCompileInputs.cache
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\obj\Debug\SumaDeArreglo.exe
-C:\Users\etaln\Documents\Programacion\c#\Investigacion\Investigacion_Divide_Venceras\SumaDeArreglo\obj\Debug\SumaDeArreglo.pdb
