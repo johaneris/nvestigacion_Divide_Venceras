@@ -1,0 +1,7 @@
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\bin\Debug\Quicksort.exe.config
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\bin\Debug\Quicksort.exe
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\bin\Debug\Quicksort.pdb
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\obj\Debug\Quicksort.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\obj\Debug\Quicksort.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\obj\Debug\Quicksort.exe
+C:\Users\etaln\Documents\Programacion\c#\e\investigacion_Divide_Venceras\Ejercicios\Quicksort\obj\Debug\Quicksort.pdb
