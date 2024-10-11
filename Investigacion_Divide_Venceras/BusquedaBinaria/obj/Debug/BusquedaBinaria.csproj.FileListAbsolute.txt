@@ -1,0 +1,7 @@
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
