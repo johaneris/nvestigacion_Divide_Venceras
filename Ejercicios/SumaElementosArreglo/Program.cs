@@ -18,13 +18,13 @@ namespace SumaElementosArreglo
 
         static int Sum(int[] arr, int low, int high)
         {
-            
+            // Si solo hay un elemento en el arreglo
             if (low == high)
                 return arr[low];
 
             
             int mid = (low + high) / 2;
-            return Sum(arr, low, mid) + Sum(arr, mid + 1, high); 
+            return Sum(arr, low, mid) + Sum(arr, mid + 1, high); //Recursividad
         }
 
     }

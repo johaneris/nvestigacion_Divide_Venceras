@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\ClonDivVenc\\investigacion_Divide_Venceras\\Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}|SumaElementosArreglo\\SumaElementosArreglo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\clondivvenc\\investigacion_divide_venceras\\ejercicios\\sumaelementosarreglo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}|SumaElementosArreglo\\SumaElementosArreglo.csproj|solutionrelative:sumaelementosarreglo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}|BusquedaBinaria\\BusquedaBinaria.csproj|c:\\users\\usuario\\onedrive\\escritorio\\clondivvenc\\investigacion_divide_venceras\\ejercicios\\busquedabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}|BusquedaBinaria\\BusquedaBinaria.csproj|solutionrelative:busquedabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}|SumaElementosArreglo\\SumaElementosArreglo.csproj|c:\\users\\usuario\\onedrive\\escritorio\\clondivvenc\\investigacion_divide_venceras\\ejercicios\\sumaelementosarreglo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}|SumaElementosArreglo\\SumaElementosArreglo.csproj|solutionrelative:sumaelementosarreglo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\ClonDivVenc\\investigacion_Divide_Venceras\\Ejercicios\\SumaElementosArreglo\\Program.cs",
               "RelativeDocumentMoniker": "SumaElementosArreglo\\Program.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\ClonDivVenc\\investigacion_Divide_Venceras\\Ejercicios\\SumaElementosArreglo\\Program.cs*",
-              "RelativeToolTip": "SumaElementosArreglo\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABBAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\ClonDivVenc\\investigacion_Divide_Venceras\\Ejercicios\\SumaElementosArreglo\\Program.cs",
+              "RelativeToolTip": "SumaElementosArreglo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T04:41:38.843Z",
+              "WhenOpened": "2024-10-11T05:20:11.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\ClonDivVenc\\investigacion_Divide_Venceras\\Ejercicios\\BusquedaBinaria\\Program.cs",
               "RelativeDocumentMoniker": "BusquedaBinaria\\Program.cs",
               "ToolTip": "C:\\Users\\USUARIO\\OneDrive\\Escritorio\\ClonDivVenc\\investigacion_Divide_Venceras\\Ejercicios\\BusquedaBinaria\\Program.cs",
               "RelativeToolTip": "BusquedaBinaria\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T20:21:22.978Z",
+              "WhenOpened": "2024-10-11T05:16:11.164Z",
               "EditorCaption": ""
             }
           ]
