@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\etaln\\Documents\\Programacion\\c#\\Investigacion\\Investigacion_Divide_Venceras\\",
+  "WorkspaceRootPath": "C:\\Users\\etaln\\Documents\\Programacion\\c#\\Expo\\investigacion_Divide_Venceras\\Ejercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}|BusquedaBinaria\\BusquedaBinaria.csproj|C:\\Users\\etaln\\Documents\\Programacion\\c#\\Investigacion\\Investigacion_Divide_Venceras\\busquedabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}|BusquedaBinaria\\BusquedaBinaria.csproj|c:\\users\\etaln\\documents\\programacion\\c#\\expo\\investigacion_divide_venceras\\ejercicios\\busquedabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}|BusquedaBinaria\\BusquedaBinaria.csproj|solutionrelative:busquedabinaria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\etaln\\Documents\\Programacion\\c#\\Investigacion\\Investigacion_Divide_Venceras\\BusquedaBinaria\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\etaln\\Documents\\Programacion\\c#\\Expo\\investigacion_Divide_Venceras\\Ejercicios\\BusquedaBinaria\\Program.cs",
               "RelativeDocumentMoniker": "BusquedaBinaria\\Program.cs",
-              "ToolTip": "C:\\Users\\etaln\\Documents\\Programacion\\c#\\Investigacion\\Investigacion_Divide_Venceras\\BusquedaBinaria\\Program.cs",
+              "ToolTip": "C:\\Users\\etaln\\Documents\\Programacion\\c#\\Expo\\investigacion_Divide_Venceras\\Ejercicios\\BusquedaBinaria\\Program.cs",
               "RelativeToolTip": "BusquedaBinaria\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
