@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedaBinaria", "BusquedaBinaria\BusquedaBinaria.csproj", "{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumaElementosArreglo", "SumaElementosArreglo\SumaElementosArreglo.csproj", "{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC9AC3D9-11EA-4B4F-B916-F13C6345A9BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E29DAEAD-E970-4DB5-B2EB-153EB967BB45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

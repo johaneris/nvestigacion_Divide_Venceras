@@ -1,0 +1,7 @@
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\obj\Debug\SumaElementosArreglo.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\obj\Debug\SumaElementosArreglo.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\bin\Debug\SumaElementosArreglo.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\bin\Debug\SumaElementosArreglo.exe
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\bin\Debug\SumaElementosArreglo.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\obj\Debug\SumaElementosArreglo.exe
+C:\Users\USUARIO\OneDrive\Escritorio\ClonDivVenc\investigacion_Divide_Venceras\Ejercicios\SumaElementosArreglo\obj\Debug\SumaElementosArreglo.pdb

@@ -5,3 +5,13 @@ C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaB
 C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
 C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
 C:\Users\etaln\Documents\Programacion\c#\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
+<<<<<<< HEAD
+=======
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe.config
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\bin\Debug\BusquedaBinaria.exe
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\bin\Debug\BusquedaBinaria.pdb
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.exe
+C:\Users\USUARIO\OneDrive\Escritorio\ClonMetProDivVenc\investigacion_Divide_Venceras\Investigacion_Divide_Venceras\BusquedaBinaria\obj\Debug\BusquedaBinaria.pdb
+>>>>>>> Alicia
